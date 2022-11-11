@@ -1,0 +1,18 @@
+[submodule "madcamp_week1"]
+	path = madcamp_week1
+	url = https://github.com/SeolyeongBae/MiniApp
+[submodule "madcamp_week2"]
+	path = madcamp_week2
+	url = https://github.com/SeolyeongBae/Natures-Closet
+[submodule "madcamp_week3"]
+	path = madcamp_week3
+	url = https://github.com/SeolyeongBae/madcamp_week3
+[submodule "madcamp_week4"]
+	path = madcamp_week4
+	url = https://github.com/SeolyeongBae/madcamp_week4
+[submodule "MiniApp"]
+	path = MiniApp
+	url = https://github.com/SeolyeongBae/MiniApp
+[submodule "Natures-Closet"]
+	path = Natures-Closet
+	url = https://github.com/SeolyeongBae/Natures-Closet
